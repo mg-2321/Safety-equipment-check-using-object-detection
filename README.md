@@ -8,6 +8,13 @@ COMPARISION OF MODELS
 
 |-------------------------|------------------|--------------|
 |     ALGORITHMS USED     |AVERAGE PRESCISION|AVERAGE RECALL|
+|-------------------------|------------------|--------------|
 |  Faster R-CNN(on CHVG)  |    57.9%         |    69.6%     |
 |-------------------------|------------------|--------------|
 
+|  Faster R-CNN(on PICTOR)|    49.3%         |    57.6%     |
+|      SSD(on CHGV)       |    53.8%         |    61.1%     |
+|      SSD(on PICTOR)     |    60.2%         |   62.7%      | 
+|   CenterNet(on CHGV)    |     71.1%        |   74.3%      |
+|   CenterNet(on PICTOR)  |     65.9%        |   69.1%      |
+|-------------------------|
