@@ -3,7 +3,7 @@ The project aims to mitigate the issue of fatal construction accidents due to tr
 
 Algorithms such as CenterNet, Faster R-CNN and Single-Shot-Detection(SSD) have been implemented with explainable comparative analysis.
 
-                      COMPARISION OF MODELS
+COMPARISION OF MODELS
 
 |     ALGORITHMS USED     |AVERAGE PRESCISION|AVERAGE RECALL|
 |-------------------------|------------------|--------------|
