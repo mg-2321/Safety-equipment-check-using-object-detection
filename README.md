@@ -6,7 +6,7 @@ Algorithms such as CenterNet, Faster R-CNN and Single-Shot-Detection(SSD) have b
 COMPARISION OF MODELS
 
 
-|----------------|------------------|--------------|
+
 |ALGORITHMS USED |AVERAGE PRESCISION|AVERAGE RECALL|
 |----------------|------------------|--------------|
 |  Faster R-CNN  |    57.9%         |    69.6%     |
