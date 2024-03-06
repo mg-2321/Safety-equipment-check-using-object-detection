@@ -15,4 +15,3 @@ COMPARISION OF MODELS
 |      SSD(on PICTOR)     |    60.2%         |   62.7%      | 
 |   CenterNet(on CHGV)    |     71.1%        |   74.3%      |
 |   CenterNet(on PICTOR)  |     65.9%        |   69.1%      |
-|-------------------------|------------------|--------------|
