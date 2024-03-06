@@ -7,6 +7,7 @@ COMPARISION OF MODELS
 
 
 
+
 |     ALGORITHMS USED     |AVERAGE PRESCISION|AVERAGE RECALL|
 |                         |                  |              |
 |  Faster R-CNN(on CHVG)  |    57.9%         |    69.6%     |
